@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://tale-zola.netlify.app"
+base_url = "https://stanpao.github.io"
 
 # The basic information about the site
 title = "📦 Bao's Archive"

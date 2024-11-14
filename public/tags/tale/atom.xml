@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>📦 Bao&#x27;s Archive - Tale</title>
+    <subtitle>Tala-Zola is a minimal Zola theme helping you to build a light blog, and you can customise any information of the blog without having to modify the codes of the template.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://stanpao.github.io/tags/tale/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://stanpao.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-05-04T14:08:08+00:00</updated>
+    <id>https://stanpao.github.io/tags/tale/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Introducing Tale-Zola</title>
+        <published>2021-05-04T14:08:08+00:00</published>
+        <updated>2021-05-04T14:08:08+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stanpao.github.io/introducing-tale-zola/"/>
+        <id>https://stanpao.github.io/introducing-tale-zola/</id>
+        
+        <content type="html" xml:base="https://stanpao.github.io/introducing-tale-zola/">&lt;p&gt;Tala-Zola is a minimal &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt; theme helping you to
+build a light and seo-ready blog, and you can customise any information of the
+blog without having to modify the codes of the template. Tala-Zola is a port of
+the Jekyll theme &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;chesterhow&#x2F;tale&quot;&gt;Tale&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Tale-Zola is seo-ready and it suports the open graph, Twitter cards and JSON-LD.
+All you need to do is just write an article for your blog.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>📦 Bao&#x27;s Archive - Markdown</title>
+    <subtitle>Tala-Zola is a minimal Zola theme helping you to build a light blog, and you can customise any information of the blog without having to modify the codes of the template.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://stanpao.github.io/tags/markdown/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://stanpao.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-05-02T18:18:18+00:00</updated>
+    <id>https://stanpao.github.io/tags/markdown/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Markdown Syntax Guide</title>
+        <published>2021-05-02T18:18:18+00:00</published>
+        <updated>2021-05-02T18:18:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://stanpao.github.io/markdown-syntax/"/>
+        <id>https://stanpao.github.io/markdown-syntax/</id>
+        
+        <summary type="html">&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Zola
+content files, also it shows whether basic HTML elements are decorated with CSS
+in a Zola theme.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
