@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: stanpao.github.io/sitemap.xml
+Sitemap: https://stanpao.github.io/sitemap.xml
